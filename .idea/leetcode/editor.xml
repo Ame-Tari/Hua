@@ -147,6 +147,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SelfDividingNumbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SelfDividingNumbers.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SelfDividingNumbers.java" />
+              <option name="questionId" value="728" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TwoSum.java">
           <value>
             <LeetcodeEditor>
@@ -171,6 +180,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ZL6zAn.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ZL6zAn.java" />
               <option name="questionId" value="剑指 Offer II 105" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Zero1Matrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Zero1Matrix.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Zero1Matrix.java" />
+              <option name="questionId" value="542" />
             </LeetcodeEditor>
           </value>
         </entry>
