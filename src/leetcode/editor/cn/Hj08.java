@@ -2,6 +2,7 @@ package leetcode.editor.cn;
 
 import java.util.HashMap;
 import java.util.Scanner;
+import java.util.TreeMap;
 
 /**
  * @Author: ming
@@ -12,7 +13,7 @@ public class Hj08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
-        HashMap<Integer, Integer> map = new HashMap<>();
+        TreeMap<Integer, Integer> map = new TreeMap<>();
         for (int i = 0; i < num; i++) {
             int left = sc.nextInt();
             int right = sc.nextInt();
